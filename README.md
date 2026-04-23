@@ -2,6 +2,7 @@
 
 **Client:** AUXGP  
 * **Project Link:** https://docs.google.com/spreadsheets/d/1jcoNvq18UNmqxFb0JA5jn8xkN24sBfHiaugAiJYhnlg/edit?usp=sharing
+* **Analysis Dashboard (Concept) Link:** https://datastudio.google.com/reporting/3fa006f2-eefd-48e9-a766-a3e9e9f6f72f
 * **Project Goal:** Build a lean, scalable automation system that combines AI, spreadsheets, CRM workflows, and outreach operations.
 
 * **Snapshot:**
