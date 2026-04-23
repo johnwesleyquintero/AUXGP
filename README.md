@@ -4,6 +4,10 @@
 * **Project Link:** https://docs.google.com/spreadsheets/d/1jcoNvq18UNmqxFb0JA5jn8xkN24sBfHiaugAiJYhnlg/edit?usp=sharing
 * **Project Goal:** Build a lean, scalable automation system that combines AI, spreadsheets, CRM workflows, and outreach operations.
 
+* **Snapshot:**
+<img width="1190" height="868" alt="image" src="https://github.com/user-attachments/assets/faac6fad-0ad0-4683-8a98-74cfbfbd6e46" />
+
+
 ---
 
 ## Executive Summary
