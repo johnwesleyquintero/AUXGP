@@ -1,7 +1,8 @@
 # AUXGP — Simple Hybrid Automation Architecture
 
 **Client:** AUXGP  
-**Project Goal:** Build a lean, scalable automation system that combines AI, spreadsheets, CRM workflows, and outreach operations.
+* **Project Link:** https://docs.google.com/spreadsheets/d/1jcoNvq18UNmqxFb0JA5jn8xkN24sBfHiaugAiJYhnlg/edit?usp=sharing
+* **Project Goal:** Build a lean, scalable automation system that combines AI, spreadsheets, CRM workflows, and outreach operations.
 
 ---
 
